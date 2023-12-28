@@ -1,2 +1,2 @@
-# Ttle-Mapping-Tutorial
+# Tile-Mapping-Tutorial
 A tutorial that teach you tile mapping techniques.
