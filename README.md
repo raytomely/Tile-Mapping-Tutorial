@@ -2,7 +2,7 @@
 A tutorial that teach you tile mapping techniques.
 
 
-![uploads siteduzero com_files_188001_189000_188036](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/b9566d20-bb6c-47b0-9a49-acab65dc1f2a)
+![uploads siteduzero com_files_188001_189000_188036](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/4923849a-5082-4fad-a1f4-79a1fb4875a1)
 
 
 ![uploads siteduzero com_files_195001_196000_195833](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/24405e3a-17e2-4842-b4e7-57181909b7bb)
