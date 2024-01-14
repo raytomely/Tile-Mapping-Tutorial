@@ -2,14 +2,13 @@
 A tutorial that teach you tile mapping techniques.
 
 
-
-![uploads![uploads siteduzero com_files_195001_196000_195833](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/1de1d0d7-227e-46b4-bd14-cba4faffc793)
-
-
- siteduzero com_files_188001_189000_188036](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/af2fe41e-280f-4d35-a042-cd506de0d502)
+![uploads siteduzero com_files_188001_189000_188036](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/b9566d20-bb6c-47b0-9a49-acab65dc1f2a)
 
 
-![uploads siteduzero com_files_397001_398000_397861](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/8692f770-e713-4828-9177-ae3439b92eb1)
+![uploads siteduzero com_files_195001_196000_195833](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/24405e3a-17e2-4842-b4e7-57181909b7bb)
 
 
-![zelda](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/f5cc85ca-c6d7-48e8-bde5-d3ce9c3d3de9)
+![uploads siteduzero com_files_397001_398000_397861](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/e947ff4c-6323-427a-8bed-90900d32bf7d)
+
+
+![zelda](https://github.com/raytomely/Tile-Mapping-Tutorial/assets/45993451/636d7fa2-7c05-4b54-ba1a-4390461f5618)
